@@ -4,7 +4,7 @@ An open source solana hacker guide for existing and new developers.
 
 ## Mascot
 
-!Mascot](images/solana-hacker-guide-00.png)
+![Mascot](images/solana-hacker-guide-00.png)
 
 ## Contents
 
